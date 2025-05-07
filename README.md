@@ -20,9 +20,11 @@ Curated collection of tools and resources for development, design, and documenta
 ## 📝 Markdown Tools
 - [**Markdown Guide**](https://www.markdownguide.org) - Complete Markdown syntax reference
 - [**Slackmojis**](https://slackmojis.com) - Emojis for documentation
+- [**GIPHY**](https://giphy.com) 🎥 - GIF library for documentation
 
 ## 🎨 Design & Images
 - [**Online Image Editor**](https://www.online-image-editor.com) - Browser-based image editor
+- [**GIPHY**](https://giphy.com) 🎥 - GIF library
 
 ## 🚀 Web Animations
 - [**Lenis**](https://lenis.darkroom.engineering) - Smooth scroll JavaScript library
@@ -37,6 +39,7 @@ Curated collection of tools and resources for development, design, and documenta
 
 ## 🧰 Utilities
 - [**Slackmojis**](https://slackmojis.com) - Custom emoji collection
+- [**GIPHY**](https://giphy.com) 🎥 - GIF library
 
 ## 🤝 Contributions
 Suggestions welcome! Open an issue or submit a PR with new useful resources.
