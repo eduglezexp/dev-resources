@@ -10,6 +10,7 @@ Curated collection of tools and resources for development, design, and documenta
 - [Databases](#-databases)
 - [Game Development](#-game-development)
 - [Utilities](#-utilities)
+- [Contributions](#-contributions)
 
 ## 👨💻 GitHub Profile
 - [**Markdown Badges**](https://github.com/Ileriayo/markdown-badges) - Badges to customize your README
