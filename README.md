@@ -41,6 +41,7 @@ Curated collection of tools and resources for development, design, and documenta
 ## 🧰 Utilities
 - [**Slackmojis**](https://slackmojis.com) - Custom emoji collection
 - [**GIPHY**](https://giphy.com) 🎥 - GIF library
+- [**OpenGraph.xyz**](https://www.opengraph.xyz/) - Generate and test Open Graph metadata for social media previews
 
 ## 🤝 Contributions
 Suggestions welcome! Open an issue or submit a PR with new useful resources.
